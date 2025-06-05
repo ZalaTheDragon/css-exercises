@@ -1,4 +1,13 @@
-.font {
+button {
     font-size: 50px;
     font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.white-font {
+    background-color: #1B1212;
+    color: #F9F6EE;
+}
+
+.yellow-font {
+    background-color: #FDDA0D;
 }
